@@ -162,4 +162,4 @@ We are always looking for people to help us grow `react-static`'s capabilities a
 
 React Static uses the MIT license. For more information on this license, [click here](/LICENSE).
 
-react code
+react code deployment
