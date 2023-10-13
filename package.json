@@ -14,8 +14,8 @@
     "format": "prettier docs/** --write && lerna run format --stream",
     "ci": "yarn build && yarn test"
   },
-  "workspaces": [
-    "packages/*"
+
+  
   ],
   "devDependencies": {
     "eslint-config-prettier": "^6.11.0",
